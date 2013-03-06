@@ -2,18 +2,14 @@
 <article class="page_box">
 <%self:filter chain="markdown">
 
-Welcome to Blogofile
+Welcome to Kirsten Sandwich!
 ====================
 
-This is an example [Blogofile](http://www.blogofile.com) site that is
-optimized for HTML5 browsers.
+We do 3-part a cappella around Toronto. Come see us some time!
 
-Please see the [Documentation](http://www.blogofile.com/documentation)
-for getting started and for customizing your site.
+Posts are here, possibly on twitter as
+[@kirstensandwich](https://twitter.com/kirstensandwich), and on
+[facebook](https://www.facebook.com/pages/Kirsten-Sandwich/47092920815).
 
-Specific customization points for this example:
-
- * ``_templates/theme.mako`` imports the stylesheet and a few custom web fonts from [Google's CDN](http://www.google.com/webfonts).
- * To change the twitter search for the widget on the right, see ``js/site.js`` and ``_templates/sidebar.mako``.
 </%self:filter>
 </article>
