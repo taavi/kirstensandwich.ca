@@ -281,13 +281,14 @@ div#credits p {
 }
 
 .blog_post_title {
+    color: black;
     font-size: 1.4em;
     height: 1.4em;
     font-weight: normal;
     overflow: hidden;
 }
 .blog_post_title a {
-    color: #fff;
+    color: #003;
     float: left;
     margin-top: 4px;
 }
