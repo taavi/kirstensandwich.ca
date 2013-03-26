@@ -18,6 +18,8 @@ def nav_class(path):
              class="${nav_class(bf.util.site_path_helper(bf.config.blog.path))}">Blog</a></li>
       <li><a href="${bf.util.site_path_helper(bf.config.blog.path,'archive')}"
              class="${nav_class(bf.util.site_path_helper(bf.config.blog.path,'archive'))}">Archives</a></li>
+      <li><a href="/songs.html"
+             class="">Songs</a></li>
     </ul>
   </div>
 </header>
